@@ -1,2 +1,2 @@
 # Deep-Learning
-Practice Deep Learning With Python
+This repository is for learning & practicing Deep Learning from the basics using Python
